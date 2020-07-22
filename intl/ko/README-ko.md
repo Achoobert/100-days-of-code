@@ -8,13 +8,13 @@
 * [참고 자료](resources.md)
 
 ## 다국어 번역
-[스페인어](intl/es/README.md) – [프랑스어](intl/fr/FAQ-fr.md) – [러시아어](intl/ru/README-ru.md) – [포르투갈어(브라질)](intl/pt-br/LEIAME.md) – [독일어](intl/de/README.md) – [우크라이나어](intl/ua/README-ua.md) – [한국어](intl/ko/README-ko.md) 
+[বাংলা](../bn/README.md) - [中文](../ch/README.md) - [deutsch](../de/README.md) - [español](../es/README.md) – [français](../fr/FAQ-fr.md) – [日本語](../ja/README.md) - [한국어](../ko/README-ko.md) – [norsk](../no/README.md) –  [polski](../pl/README.md) - [português do Brasil](../pt-br/LEIAME.md) - [русский](../ru/README-ru.md) – [українська](../ua/README-ua.md) 
 
 내용 및 규칙에 대한 번역을 제공하여 저희를 도와주시려면, Pull Request를 이용하거나 @ka11away로 트위터 메시지를 보내주시면 됩니다. (Pull Request는 'intl' 폴더에 서브 폴더를 만들어 번역한 파일을 저장하면 됩니다.)
 
 ## 참여하기로 결정하셨다면:
 
-0.  #100DaysOfCode (#100일코딩) 운동의 [공식사이트(영문)](http://100daysofcode.com/)를 확인해보세요. 다른 참가자들과 함께 이야기를 나누어 보세요. 플랫폼 리스트는 여기 있습니다: www.100DaysOfCode.com/connect 그리고, [링크](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA) 를 클릭하시면 100DaysOfCode 슬랙(Slack) 채널에 참여하실 수 있습니다.
+0.  #100DaysOfCode (#100일코딩) 운동의 [공식사이트(영문)](http://100daysofcode.com/)를 확인해보세요. 다른 참가자들과 함께 이야기를 나누어 보세요. 플랫폼 리스트는 여기 있습니다: www.100DaysOfCode.com/connect 그리고, [링크](https://join.slack.com/t/100xcode/shared_invite/zt-eivg7x1x-wgNPDh7ug_u4GcUwZNT8Zg) 를 클릭하시면 100DaysOfCode 슬랙(Slack) 채널에 참여하실 수 있습니다.
 1.  Medium에 올라와있는 [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4) 포스팅 글을 읽어보세요. (영문 자료입니다.)
 1.  이 repo(저장소)를 fork하고 [Log](log.md)에 commit해서 진행상황을 매일 기록하세요. 대안으로 좀 더 빠르게 작성 가능한 [R1 Log](r1-log.md) (R1은 1라운드를 의미합니다.) 양식도 있습니다. [예시(영문)](https://github.com/Kallaway/100-days-kallaway-log). 
 1.  **앞으로 100일 동안 하루 1시간 이상 코딩을 합니다.**
